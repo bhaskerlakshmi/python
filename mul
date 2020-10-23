@@ -1,0 +1,1 @@
+print('product %.1f:' %(float(input('Enter num1: ')) * float(input('Enter num2: '))))
