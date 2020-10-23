@@ -1,0 +1,1 @@
+print('sum %.1f:' %(float(input('Enter num1: ')) + float(input('Enter num2: '))))
